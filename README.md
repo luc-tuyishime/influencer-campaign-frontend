@@ -4,7 +4,7 @@ A modern web application built with Next.js 13+ (App Router) for managing influe
 
 ### Live Demo
 
-* Production URL: https://influencer-campaign-frontend-er9p0whwl-luc-tuyishimes-projects.vercel.app/
+* Production URL: https://influencer-campaign-frontend-git-main-luc-tuyishimes-projects.vercel.app/
 
 ### Features
 

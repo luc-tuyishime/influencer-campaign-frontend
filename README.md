@@ -4,7 +4,7 @@ A modern web application built with Next.js 13+ (App Router) for managing influe
 
 ### Live Demo
 
-* Production URL: https://trendai.vercel.app
+* Production URL: https://influencer-campaign-frontend.vercel.app/
 
 ### Features
 

@@ -1,4 +1,4 @@
-Influencer Campaign Platform Frontend
+## Influencer Campaign Platform Frontend
 
 A modern web application built with Next.js 13+ (App Router) for managing influencer marketing campaigns. This platform connects influencers with brands and helps manage campaign submissions effectively.
 
